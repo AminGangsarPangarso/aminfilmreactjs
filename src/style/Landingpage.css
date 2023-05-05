@@ -1,0 +1,47 @@
+.MYBG{
+    height: 100vh;
+    background: url(../assets/images/bg/main.jpg);
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+   
+    display: flex;
+    align-items: flex-end;
+    text-transform: uppercase;
+}
+
+.title{
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.trending{
+    height: auto;
+    background: url(../assets/images/bg/scifi.jpg);
+    background-size: cover;
+}
+
+.movieImage{
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.movieWrapper{
+ cursor: pointer;
+}
+
+.images{
+    height: 500px;
+}
+
+.superhero{
+    height: auto;
+    background: url(../assets/images/bg/spiderman.jpg);
+    background-size: cover;
+}
